@@ -2,6 +2,11 @@
 
 `agent-claw` 是一个 **AI Agent 智能体平台**：你用 **Web 浏览器**完成主要操作；程序以**本地后台常驻服务**运行，负责会话、任务执行与模型调用。产品交互与信息展示采用统一的布局与呈现方式，便于上手使用。
 
+### 仓库地址（下载）
+
+- GitHub：[shiming-git/agent-claw](https://github.com/shiming-git/agent-claw)
+- Gitee：[librarycodes/agent-claw](https://gitee.com/librarycodes/agent-claw)
+
 ### 1) 我拿到发布包后怎么用？
 
 1. 解压发布包（保持目录结构不变）。
