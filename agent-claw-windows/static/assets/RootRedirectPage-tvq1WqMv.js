@@ -1,0 +1,1 @@
+import{u as s,j as t,R as u,N as o}from"./index-CnUe9mmG.js";function i(){const{authed:e,authStatus:a}=s();return a==="checking"?t.jsx(u,{message:"正在初始化路由与登录状态..."}):t.jsx(o,{to:e?"/chat":"/login",replace:!0})}export{i as default};

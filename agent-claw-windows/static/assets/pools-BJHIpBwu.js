@@ -1,0 +1,1 @@
+import{A as a,l as r}from"./index-CnUe9mmG.js";async function n(s){const o=await fetch(`${a}/api/v1/pools`,{headers:r(s)});if(!o.ok)throw new Error(`pools ${o.status}`);return o.json()}async function c(s,o){const t=await fetch(`${a}/api/v1/pools/${o}/agents`,{headers:r(s)});if(!t.ok)throw new Error(`pool agents ${t.status}`);return t.json()}export{c as a,n as f};
