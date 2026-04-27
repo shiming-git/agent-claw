@@ -19,7 +19,7 @@
   - `model_name`：模型名称
   - `api_key`：访问密钥
 
-详见：`06_首次运行与配置.md`
+详见：[首次运行与配置](first-run-and-configuration.md)
 
 ### 3) 功能入口在哪里？
 
